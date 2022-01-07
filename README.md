@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://devchallenges404notfound.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://dwiputrabayu.rf.gd)
-- GitHub [@your-username](https://github.com/dpbayu)
-- Twitter [@your-twitter](https://twitter.com/codesvein)
+- Website [dwiputrabayu.rf.gd](https://dwiputrabayu.rf.gd)
+- GitHub [@dpbayu](https://github.com/dpbayu)
+- Twitter [@codesvein](https://twitter.com/codesvein)
