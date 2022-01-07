@@ -1,0 +1,36 @@
+@media only screen and (max-width: 375px) {
+    h1 {
+        margin: 0 -50px;
+    }
+
+    img {
+        margin-top: 100px;
+        height: 250px;
+    }
+
+    .title h1 {
+        width: 300px;
+        margin-left: -50px;
+        margin-top: -50px;
+        font-size: 48px;
+        line-height: 71px;
+    }
+
+    .subtitle h2 {
+        width: auto;
+        margin-left: 25px;
+        margin-bottom: 50px;
+        font-size: 18px;
+    }
+
+    .btn {
+        margin-top: 75px;
+        margin-bottom: 50px;
+        margin-left: 25px;
+        font-size: 14px;
+    }
+
+    p {
+        margin-left: -25px;
+    }
+}
