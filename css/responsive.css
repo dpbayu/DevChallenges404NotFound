@@ -1,4 +1,4 @@
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 2560px) {
     h1 {
         margin: 0 -50px;
     }
@@ -9,28 +9,53 @@
     }
 
     .title h1 {
-        width: 300px;
-        margin-left: -50px;
-        margin-top: -50px;
-        font-size: 48px;
+        width: auto;
+        font-size: 124px;
         line-height: 71px;
     }
 
-    .subtitle h2 {
+    .subtitle h3 {
         width: auto;
-        margin-left: 25px;
-        margin-bottom: 50px;
+        margin: 50px 0 20px 0;
         font-size: 18px;
     }
 
     .btn {
-        margin-top: 75px;
-        margin-bottom: 50px;
-        margin-left: 25px;
-        font-size: 14px;
+        font-size: 12px;
     }
 
     p {
-        margin-left: -25px;
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    h1 {
+        margin: 0 -50px;
+    }
+
+    img {
+        margin-top: 100px;
+        height: 250px;
+    }
+
+    .title h1 {
+        width: auto;
+        font-size: 124px;
+        line-height: 71px;
+    }
+
+    .subtitle h3 {
+        width: auto;
+        margin: 50px 0 20px 0;
+        font-size: 18px;
+    }
+
+    .btn {
+        font-size: 12px;
+    }
+
+    p {
+        margin: 0 auto;
     }
 }
