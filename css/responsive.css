@@ -1,61 +1,17 @@
-@media only screen and (max-width: 2560px) {
-    h1 {
-        margin: 0 -50px;
-    }
-
-    img {
-        margin-top: 100px;
-        height: 250px;
-    }
-
-    .title h1 {
-        width: auto;
-        font-size: 124px;
-        line-height: 71px;
-    }
-
-    .subtitle h3 {
-        width: auto;
-        margin: 50px 0 20px 0;
-        font-size: 18px;
-    }
-
-    .btn {
-        font-size: 12px;
-    }
-
-    p {
-        margin: 0 auto;
-    }
-}
-
 @media only screen and (max-width: 425px) {
-    h1 {
-        margin: 0 -50px;
+    .title {
+        margin: 20px auto;
     }
-
-    img {
-        margin-top: 100px;
-        height: 250px;
-    }
-
     .title h1 {
-        width: auto;
-        font-size: 124px;
-        line-height: 71px;
+        font-size: 150px;
     }
-
-    .subtitle h3 {
-        width: auto;
-        margin: 50px 0 20px 0;
-        font-size: 18px;
-    }
-
-    .btn {
-        font-size: 12px;
-    }
-
-    p {
+    .subtitle {
         margin: 0 auto;
+    }
+    .subtitle h2 {
+        width: 300px;
+    }
+    .button{
+        margin: 50px auto;
     }
 }
