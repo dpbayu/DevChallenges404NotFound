@@ -120,7 +120,7 @@ body {
 .fog-img-first {
     background: url(../img/fog-1.png);
     background-repeat: repeat-x;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     animation: marquee 60s linear infinite;
     animation-direction: alternate;
@@ -129,7 +129,7 @@ body {
 .fog-img-second {
     background: url(../img/fog-2.png);
     background-repeat: repeat-x;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     animation: marquee 30s linear infinite;
     animation-direction: alternate;
