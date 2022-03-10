@@ -66,6 +66,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [dpbayu.rf.gd](https://dwiputrabayu.rf.gd)
+- Website [dpbayu.rf.gd](https://dpbayu.rf.gd)
 - GitHub [@dpbayu](https://github.com/dpbayu)
 - Twitter [@codesvein](https://twitter.com/codesvein)
