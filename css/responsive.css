@@ -1,17 +1,14 @@
 @media only screen and (max-width: 425px) {
-    .title {
-        margin: 20px auto;
+    img {
+        height: 200px;
+        width: 200px;
     }
-    .title h1 {
-        font-size: 150px;
-    }
+
     .subtitle {
         margin: 0 auto;
     }
+
     .subtitle h2 {
         width: 300px;
-    }
-    .button{
-        margin: 50px auto;
     }
 }
