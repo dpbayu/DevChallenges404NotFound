@@ -1,4 +1,12 @@
 @media only screen and (max-width: 425px) {
+    .row {
+        margin: 0;
+    }
+
+    .title {
+        margin: 25px 0;
+    }
+
     img {
         height: 200px;
         width: 200px;
@@ -10,5 +18,9 @@
 
     .subtitle h2 {
         width: 300px;
+    }
+
+    .box {
+        margin: 25px 0;
     }
 }
